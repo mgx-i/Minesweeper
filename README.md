@@ -1,3 +1,3 @@
-#Minesweeper
+# Minesweeper
 
 C++ minesweeper
